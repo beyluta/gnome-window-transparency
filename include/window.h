@@ -5,7 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <xcb/xcb.h>
-#include <xcb/xproto.h>
 
 #define OPAQUE 0xffffffff
 
